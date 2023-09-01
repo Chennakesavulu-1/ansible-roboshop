@@ -6,3 +6,24 @@ catalogue.chennadevops.online
 
 [web]
 web.chennadevops.online
+
+[redis]
+redis.chennadevops.online
+
+[user]
+user.chennadevops.online
+
+[cart]
+cart.chennadevops.online
+
+[mysql]
+mysql.chennadevops.online
+
+[shipping]
+shipping.chennadevops.online
+
+[rabbitmq]
+rabbitmq.chennadevops.online
+
+[payment]
+payment.chennadevops.online
